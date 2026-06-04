@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi 👋! Here is **Haojie Cheng**
 
-My research interests include realistic scene reconstruction, HDR illumination estimation, interactive 3D medical visualization based on GPU, and preoperative surgical simulation using VR and AR.
+My research interest mainly focuses on the intersection of computer vision and computer graphics, and the research goal is to enable perception-driven human and scene modeling for immersive VR/MR systems. 
 
 Please learn more about me from my [personal website](https://aplusx.github.io/).
 
